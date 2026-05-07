@@ -1,0 +1,50 @@
+﻿product_id,name,category_id,brand_id,sku,barcode,unit_cost,unit_price
+46,Detector apnea portátil,1,21,SKU-46,BC-46,107.99,179.99
+45,Scanner venoso portátil,1,29,SKU-45,BC-45,239.99,399.99
+42,Monitor respiratorio,1,27,SKU-42,BC-42,83.99,139.99
+39,Tensiómetro profesional,1,25,SKU-39,BC-39,71.99,119.99
+31,Báscula profesional médica,1,23,SKU-31,BC-31,149.99,249.99
+25,Electrocardiógrafo portátil,1,16,SKU-25,BC-25,95.99,159.99
+22,Monitor fetal portátil,1,22,SKU-22,BC-22,47.99,79.99
+21,Tensiómetro de muñeca,1,1,SKU-21,BC-21,29.99,49.99
+13,Monitor ECG portátil,1,10,SKU-13,BC-13,77.99,129.99
+10,Tiras reactivas glucosa (pack),1,5,SKU-10,BC-10,11.99,19.99
+5,Monitor de glucosa,1,5,SKU-5,BC-5,47.99,79.99
+3,Termómetro infrarrojo,1,3,SKU-3,BC-3,14.94,24.9
+2,Oxímetro de pulso,1,2,SKU-2,BC-2,17.99,29.99
+1,Tensiómetro digital,1,1,SKU-1,BC-1,35.99,59.99
+48,Corrector lumbares calefactable,2,13,SKU-48,BC-48,29.99,49.99
+44,Masajeador de manos,2,28,SKU-44,BC-44,89.99,149.99
+38,Análisis corporal avanzado,2,18,SKU-38,BC-38,113.99,189.99
+37,Lámpara terapéutica SAD,2,24,SKU-37,BC-37,77.99,129.99
+36,Corrector postura electrónico,2,17,SKU-36,BC-36,23.99,39.99
+33,Purificador HEPA Pro,2,19,SKU-33,BC-33,209.99,349.99
+30,Monitor sueño portátil,2,21,SKU-30,BC-30,59.94,99.9
+27,Masajeador de pies Shiatsu,2,8,SKU-27,BC-27,77.94,129.9
+24,Colchoneta vibratoria,2,3,SKU-24,BC-24,59.99,99.99
+16,Depurador de aire portátil,2,12,SKU-16,BC-16,59.94,99.9
+15,Lámpara de fototerapia,2,2,SKU-15,BC-15,53.94,89.9
+11,Masajeador cervical,2,8,SKU-11,BC-11,53.99,89.99
+7,Purificador de aire,2,7,SKU-7,BC-7,89.99,149.99
+4,Báscula inteligente,2,4,SKU-4,BC-4,20.99,34.99
+35,Bastón inteligente,3,15,SKU-35,BC-35,35.99,59.99
+34,Silla ortopédica ajustable,3,11,SKU-34,BC-34,119.99,199.99
+19,Muletas ergonómicas,3,15,SKU-19,BC-19,23.94,39.9
+18,Andador ligero,3,11,SKU-18,BC-18,77.94,129.9
+17,Silla de ruedas plegable,3,14,SKU-17,BC-17,179.99,299.99
+50,Camilla plegable portátil,4,20,SKU-50,BC-50,95.99,159.99
+49,Sonda de electroestimulación,4,9,SKU-49,BC-49,47.99,79.99
+43,Colchón ortopédico premium,4,11,SKU-43,BC-43,179.99,299.99
+28,Terapia TENS portátil,4,2,SKU-28,BC-28,35.99,59.99
+20,Terapia frío/calor,4,13,SKU-20,BC-20,15.59,25.99
+14,Colchón antiescaras,4,11,SKU-14,BC-14,119.94,199.9
+12,Electroestimulador muscular,4,9,SKU-12,BC-12,89.94,149.9
+40,Corrector dental eléctrico,5,6,SKU-40,BC-40,53.99,89.99
+26,Dispensador automático gel,5,4,SKU-26,BC-26,14.99,24.99
+8,Lámpara UV desinfectante,5,4,SKU-8,BC-8,23.94,39.9
+6,Cepillo dental sónico,5,6,SKU-6,BC-6,29.94,49.9
+47,Lámpara infrarroja terapéutica,6,2,SKU-47,BC-47,41.94,69.9
+41,Kit de oxigenoterapia,6,26,SKU-41,BC-41,149.99,249.99
+32,Nebulizador pediátrico,6,1,SKU-32,BC-32,32.94,54.9
+23,Lámpara dermatológica UV,6,7,SKU-23,BC-23,71.94,119.9
+9,Nebulizador ultrasónico,6,1,SKU-9,BC-9,41.99,69.99

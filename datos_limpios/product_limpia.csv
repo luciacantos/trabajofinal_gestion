@@ -1,0 +1,51 @@
+﻿product_id,name,category,manufacturer,price,created_at
+1,Tensiómetro digital,Diagnóstico,Omron,59.99,2026-04-04 11:23:48.591695
+2,Oxímetro de pulso,Diagnóstico,Beurer,29.99,2026-04-04 11:23:48.591695
+3,Termómetro infrarrojo,Diagnóstico,Medisana,24.9,2026-04-04 11:23:48.591695
+4,Báscula inteligente,Wellness,Xiaomi,34.99,2026-04-04 11:23:48.591695
+5,Monitor de glucosa,Diagnóstico,Abbott,79.99,2026-04-04 11:23:48.591695
+6,Cepillo dental sónico,Higiene,Oral-B,49.9,2026-04-04 11:23:48.591695
+7,Purificador de aire,Wellness,Philips,149.99,2026-04-04 11:23:48.591695
+8,Lámpara UV desinfectante,Higiene,Xiaomi,39.9,2026-04-04 11:23:48.591695
+9,Nebulizador ultrasónico,Tratamiento,Omron,69.99,2026-04-04 11:23:48.591695
+10,Tiras reactivas glucosa (pack),Diagnóstico,Abbott,19.99,2026-04-04 11:23:48.591695
+11,Masajeador cervical,Wellness,Naipo,89.99,2026-04-04 11:23:48.591695
+12,Electroestimulador muscular,Rehabilitación,Compex,149.9,2026-04-04 11:23:48.591695
+13,Monitor ECG portátil,Diagnóstico,AliveCor,129.99,2026-04-04 11:23:48.591695
+14,Colchón antiescaras,Rehabilitación,Invacare,199.9,2026-04-04 11:23:48.591695
+15,Lámpara de fototerapia,Wellness,Beurer,89.9,2026-04-04 11:23:48.591695
+16,Depurador de aire portátil,Wellness,Rowenta,99.9,2026-04-04 11:23:48.591695
+17,Silla de ruedas plegable,Movilidad,Sunrise Medical,299.99,2026-04-04 11:23:48.591695
+18,Andador ligero,Movilidad,Invacare,129.9,2026-04-04 11:23:48.591695
+19,Muletas ergonómicas,Movilidad,Ortones,39.9,2026-04-04 11:23:48.591695
+20,Terapia frío/calor,Rehabilitación,Thermoval,25.99,2026-04-04 11:23:48.591695
+21,Tensiómetro de muñeca,Diagnóstico,Omron,49.99,2026-04-04 11:23:48.591695
+22,Monitor fetal portátil,Diagnóstico,Sonoline,79.99,2026-04-04 11:23:48.591695
+23,Lámpara dermatológica UV,Tratamiento,Philips,119.9,2026-04-04 11:23:48.591695
+24,Colchoneta vibratoria,Wellness,Medisana,99.99,2026-04-04 11:23:48.591695
+25,Electrocardiógrafo portátil,Diagnóstico,Viatom,159.99,2026-04-04 11:23:48.591695
+26,Dispensador automático gel,Higiene,Xiaomi,24.99,2026-04-04 11:23:48.591695
+27,Masajeador de pies Shiatsu,Wellness,Naipo,129.9,2026-04-04 11:23:48.591695
+28,Terapia TENS portátil,Rehabilitación,Beurer,59.99,2026-04-04 11:23:48.591695
+29,Sensor temperatura inteligente,Domótica Salud,Xiaomi,19.99,2026-04-04 11:23:48.591695
+30,Monitor sueño portátil,Wellness,Withings,99.9,2026-04-04 11:23:48.591695
+31,Báscula profesional médica,Diagnóstico,Seca,249.99,2026-04-04 11:23:48.591695
+32,Nebulizador pediátrico,Tratamiento,Omron,54.9,2026-04-04 11:23:48.591695
+33,Purificador HEPA Pro,Wellness,Dyson,349.99,2026-04-04 11:23:48.591695
+34,Silla ortopédica ajustable,Movilidad,Invacare,199.99,2026-04-04 11:23:48.591695
+35,Bastón inteligente,Movilidad,Ortones,59.99,2026-04-04 11:23:48.591695
+36,Corrector postura electrónico,Wellness,BackFix,39.99,2026-04-04 11:23:48.591695
+37,Lámpara terapéutica SAD,Wellness,Lumie,129.99,2026-04-04 11:23:48.591695
+38,Análisis corporal avanzado,Wellness,Tanita,189.99,2026-04-04 11:23:48.591695
+39,Tensiómetro profesional,Diagnóstico,Microlife,119.99,2026-04-04 11:23:48.591695
+40,Corrector dental eléctrico,Higiene,Oral-B,89.99,2026-04-04 11:23:48.591695
+41,Kit de oxigenoterapia,Tratamiento,Oxycare,249.99,2026-04-04 11:23:48.591695
+42,Monitor respiratorio,Diagnóstico,RespiPro,139.99,2026-04-04 11:23:48.591695
+43,Colchón ortopédico premium,Rehabilitación,Invacare,299.99,2026-04-04 11:23:48.591695
+44,Masajeador de manos,Wellness,Therabody,149.99,2026-04-04 11:23:48.591695
+45,Scanner venoso portátil,Diagnóstico,VeinLite,399.99,2026-04-04 11:23:48.591695
+46,Detector apnea portátil,Diagnóstico,Withings,179.99,2026-04-04 11:23:48.591695
+47,Lámpara infrarroja terapéutica,Tratamiento,Beurer,69.9,2026-04-04 11:23:48.591695
+48,Corrector lumbares calefactable,Wellness,Thermoval,49.99,2026-04-04 11:23:48.591695
+49,Sonda de electroestimulación,Rehabilitación,Compex,79.99,2026-04-04 11:23:48.591695
+50,Camilla plegable portátil,Rehabilitación,Fisioclinic,159.99,2026-04-04 11:23:48.591695

@@ -1,0 +1,7 @@
+﻿reason_id,reason,active
+1,No cumple expectativas,True
+2,Producto defectuoso,True
+3,Error en el pedido,True
+4,Problema de funcionamiento,True
+5,Cliente arrepentido,True
+6,Desconocida,False

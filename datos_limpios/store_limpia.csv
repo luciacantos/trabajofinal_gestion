@@ -1,0 +1,21 @@
+﻿store_id,name,address,city,postal_code,latitude,longitude,opened_date
+1,Store Retiro,Calle Alcalá 85,Madrid,28009,40.4214,-3.674,2026-04-04
+2,Store Salamanca,Calle Goya 45,Madrid,28001,40.4252,-3.6837,2026-04-04
+3,Store Chamartín,Calle Serrano 210,Madrid,28016,40.4582,-3.684,2026-04-04
+4,Store La Latina,Cava Baja 25,Madrid,28005,40.4112,-3.7083,2026-04-04
+5,Store Sol,Puerta del Sol 3,Madrid,28013,40.4168,-3.7038,2026-04-04
+6,Store Moncloa,Calle Princesa 90,Madrid,28008,40.431,-3.719,2026-04-04
+7,Store Atocha,Atocha 73,Madrid,28012,40.4075,-3.6891,2026-04-04
+8,Store Vallecas,Av. de la Albufera 100,Madrid,28018,40.3871,-3.6566,2026-04-04
+9,Store Usera,Av. Rafaela Ybarra 45,Madrid,28026,40.3818,-3.7093,2026-04-04
+10,Store Carabanchel,Calle General Ricardos 120,Madrid,28019,40.3899,-3.7232,2026-04-04
+11,Store Hortaleza,Calle López de Hoyos 430,Madrid,28043,40.4675,-3.6393,2026-04-04
+12,Store Moratalaz,Calle Camino de Vinateros 45,Madrid,28030,40.4079,-3.646,2026-04-04
+13,Store San Blas,Av. Arcentales 25,Madrid,28022,40.4363,-3.6123,2026-04-04
+14,Store Barajas,Calle Galeón 25,Madrid,28042,40.4522,-3.5778,2026-04-04
+15,Store Chamberí,Calle Fuencarral 120,Madrid,28010,40.43,-3.7023,2026-04-04
+16,Store Tetuán,Calle Bravo Murillo 200,Madrid,28020,40.4598,-3.6988,2026-04-04
+17,Store Arganzuela,Paseo de Yeserías 35,Madrid,28005,40.4002,-3.7096,2026-04-04
+18,Store Vicálvaro,Calle Minerva 10,Madrid,28032,40.4023,-3.6018,2026-04-04
+19,Store Ciudad Lineal,Calle Arturo Soria 120,Madrid,28043,40.4451,-3.654,2026-04-04
+20,Store Fuencarral,Av. Monforte de Lemos 50,Madrid,28029,40.4772,-3.7081,2026-04-04
