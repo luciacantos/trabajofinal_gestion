@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://luciacantos.github.io/trabajofinal_gestion/"><b>🔗 Dashboard interactivo</b></a> &nbsp;·&nbsp;
+  <a href="https://luciacantos.github.io/CustomerAnalytics_and_CLTV/"><b>🔗 Dashboard interactivo</b></a> &nbsp;·&nbsp;
   <a href="docs/Proyecto_final.pdf"><b>📄 Memoria del proyecto</b></a>
 </p>
 
@@ -77,7 +77,7 @@ Segmentación final sobre 5.750 clientes (*silhouette score* = 0,515). Se eligi�
 
 El dashboard se conecta directamente al modelo dimensional (`dwh`) y se estructura en KPIs generales → análisis por segmento → detalle por producto y zona.
 
-- 🔗 **[Versión web interactiva](https://luciacantos.github.io/trabajofinal_gestion/)** (no requiere instalación)
+- 🔗 **[Versión web interactiva](https://luciacantos.github.io/CustomerAnalytics_and_CLTV/)** (no requiere instalación)
 - 📥 **[Archivo Power BI (.pbix)](powerbi/Dashboards-powerbi.pbix)** para abrir en Power BI Desktop
 
 ![Dashboard Power BI](docs/dashboard_powerbi.png)
